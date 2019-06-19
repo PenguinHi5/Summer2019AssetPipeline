@@ -1363,3 +1363,96 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.19-07.52.19:276][359]LogSavePackage: Moving '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/StreetSceneLarge_Auto44C43C8E94B29B6E1768491B260112E8C.tmp' to '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/Autosaves/Game/StreetSceneLarge_Auto4.umap'
 [2019.06.19-07.52.19:278][359]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 0.497
 [2019.06.19-07.52.19:278][359]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.497
+[2019.06.19-07.56.10:423][656]LogSlate: Window 'Save Content' being destroyed
+[2019.06.19-07.56.10:896][656]LogSavePackage: Moving '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/StreetSceneLarge7EC0793341525D5A2557F9956DCDB8B2.tmp' to '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.19-07.56.10:955][656]LogFileHelpers: Saving map 'StreetSceneLarge' took 0.486
+[2019.06.19-07.56.11:495][656]LogSavePackage: Moving '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/StreetSceneLarge_BuiltData6A7FF5DA46212E46C2F9A581781DFB05.tmp' to '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.19-07.56.11:938][656]LogSavePackage: Moving '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/StreetSceneLarge_BuiltDataD31EBEFA4564DC7D95C9F28DDB21DA53.tmp' to '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.19-07.56.11:943][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Train/Completed_Train" FILE="../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/Completed_Train.uasset" SILENT=true
+[2019.06.19-07.56.11:947][656]LogSavePackage: Moving '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/Completed_TrainA3F9C51B475A5EFF8B6C9BB44C092AB3.tmp' to '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/Completed_Train.uasset'
+[2019.06.19-07.56.11:950][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Train/lambert2SG" FILE="../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/lambert2SG.uasset" SILENT=true
+[2019.06.19-07.56.11:952][656]LogSavePackage: Moving '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/lambert2SGE3C763C14ECC5A4B63962BB58C385A4A.tmp' to '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/lambert2SG.uasset'
+[2019.06.19-07.56.11:955][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Train/lambert3SG" FILE="../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/lambert3SG.uasset" SILENT=true
+[2019.06.19-07.56.11:957][656]LogSavePackage: Moving '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/lambert3SG03D3639E49025EA7A010A3B32D235796.tmp' to '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/lambert3SG.uasset'
+[2019.06.19-07.56.11:970][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Train/lambert4SG" FILE="../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/lambert4SG.uasset" SILENT=true
+[2019.06.19-07.56.11:988][656]LogSavePackage: Moving '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/lambert4SG5AA12898469939BEEAE0C2B9E74D072F.tmp' to '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/lambert4SG.uasset'
+[2019.06.19-07.56.11:991][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Train/lambert5SG" FILE="../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/lambert5SG.uasset" SILENT=true
+[2019.06.19-07.56.11:993][656]LogSavePackage: Moving '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/lambert5SG8D17A5904BE54D3B8A522388D897DD69.tmp' to '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/lambert5SG.uasset'
+[2019.06.19-07.56.11:996][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Train/lambert6SG" FILE="../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/lambert6SG.uasset" SILENT=true
+[2019.06.19-07.56.11:998][656]LogSavePackage: Moving '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/lambert6SGEEA7405C4C5BF3F5E8C95B896294CB61.tmp' to '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/lambert6SG.uasset'
+[2019.06.19-07.56.12:001][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Train/WoodColor" FILE="../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/WoodColor.uasset" SILENT=true
+[2019.06.19-07.56.12:322][656]LogSavePackage: Moving '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/WoodColorA6E03AA1455F66433B3767B9EF3E4EE7.tmp' to '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/Train/WoodColor.uasset'
+[2019.06.19-07.56.12:411][656]LogSavePackage: Moving '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Saved/M_Train_LightSide_AP_Inst07082D3040D683699FAEF991AB68BF72.tmp' to '../../../../../../Users/MOTPe/Documents/GitHub/Summer2019AssetPipeline/BaseCityBlock/Content/woodBlocksContent/M_Train_LightSide_AP_Inst.uasset'
+[2019.06.19-07.56.14:588][870]LogSlate: Window 'Asset Report' being destroyed
+[2019.06.19-07.56.19:294][870]LogSlate: Window 'Message' being destroyed
+[2019.06.19-07.56.19:618][870]AssetTools: New page: Content migration completed successfully!
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/StreetSceneLarge
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/Manniquine/Manniquine_Animated_Anim
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/Manniquine/Manniquine_Animated_Skeleton
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/Manniquine/Manniquine_Animated
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/Manniquine/mann_texture
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/Manniquine/TrainConductorMannTexture
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/Manniquine/Manniquine_Animated_PhysicsAsset
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/StreetSceneLarge_BuiltData
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_BenchEnd_AP_Inst
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_TrackRailEnd_AP_Inst
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_MasterWoodBlock_AP
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/N_WoodTexture001_AP
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/WoodTexture004
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/Wood002EndColor
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/Wood002EndNormal
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_BenchSide_AP_Inst
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_TrackRailSide_AP_Inst
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/Wood001SideColor
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/Wood001SideNormal
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_DarkWallEnd_AP_Inst
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_DarkWallSide_AP_Inst
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_DoorSide_AP_Inst
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/Wood001ColorDoor
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_LeafEnd_AP_Inst
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_LeafSide_AP_Inst
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_WoodBlock004_AP_Inst
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_LightWallEnd_AP_Inst
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_LightWallSide_AP_Inst
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_PlatformEndG_AP_Inst1
+[2019.06.19-07.56.19:618][870]AssetTools: /Game/woodBlocksContent/M_PlatformSideG_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_RoofEnd_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_RoofSide_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_SidewalkBlock_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_StreetBlock_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_StreetBlockStipes_AP_Inst1
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/streetLines001
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_TrackTieEnd_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_TrackTieSide_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_Train_DarkEnd_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_Train_DarkSide_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_Train_LightEnd_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_MedWood1_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_Train_LightSide_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_TrunkEnd_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/woodBlocksContent/M_TrunkSide_AP_Inst
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/ArchwayBlock002
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/BalconyBlock001
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/BenchBlock001
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/BushBlock002
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/ColumnBlock001
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/ColumnBlock002
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/DoorBlock001
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/PlatformBlock001
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/RailingBlock001
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/RoofBlock001
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/RoofBlock002
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/RRTrackBlock001
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/RRTrackBlock002
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/TreeBlock001
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/WallBlock001
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/PlatformBlocks/WallBlock002
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/StreetBlocks/streetBlocks100X100X20
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/StreetBlocks/streetBlocks100X100X30
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/StreetBlocks/streetBlocks100X50X20
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/StreetBlocks/streetBlocks100X50X30
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/StreetBlocks/streetBlocks50RCorner
+[2019.06.19-07.56.19:619][870]AssetTools: /Game/StreetBlocks/streetBlocks50X50X20
+[2019.06.19-07.56.19:620][870]AssetTools: /Game/Train/Completed_Train
+[2019.06.19-07.56.29:164][  6]LogSlate: Window 'Message Log' being destroyed
+[2019.06.19-07.56.29:168][  6]LogSlate: Window 'Message Log' being destroyed
